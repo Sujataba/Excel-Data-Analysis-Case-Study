@@ -4,7 +4,7 @@ Analyse workforce data and report on trends in part-time working.
 ## Project Overview:
 The NSW Public Service Commission collects data about the public sector workforce in the Workforce Profile, a census of the NSW public sector workforce.
 As an analyst, one of the responsibilities is to provide analysis of this data in different areas such as employment arrangements, age profile and diversity profile of the workforce to support policy development.
-## Please checkout the complete project@ [NSW Public Service Commission](https://sujataba.github.io/Portfolio/LegoNotebook.html](https://www.theforage.com/modules/LEvP9qwXSHsaZDBnB/nPK6hamNzQY7PwShm](https://www.theforage.com/modules/LEvP9qwXSHsaZDBnB/nPK6hamNzQY7PwShm)
+## Please checkout the complete project@ [NSW Public Service Commission](https://www.theforage.com/modules/LEvP9qwXSHsaZDBnB/nPK6hamNzQY7PwShm)
 
 
 ### Task1 :
