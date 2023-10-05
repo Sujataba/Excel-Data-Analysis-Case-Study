@@ -20,3 +20,5 @@ Please provide:
 
 ### Task2 :
 Prepare a discussion paper (maximum 4 A4 pages of content or 6 presentation slides) of your analysis that would be suitable for a Director to use as a discussion aid in a meeting with senior executives. You must include tables or charts that illustrate your findings.
+
+The complete data analysis could be found @(https://1drv.ms/x/s!AvhoWqtUlxeUgTRPc7wQt5oVpz2e?e=1azz7U )
