@@ -1,6 +1,6 @@
 # Excel-Data-Analysis-Case-Study
 ## Data Analysis Case Study
-Analyse workforce data and report on trends in part-time working.
+Analyse NSW Public Service Commission workforce data and report on trends in part-time working.
 ## Project Overview:
 The NSW Public Service Commission collects data about the public sector workforce in the Workforce Profile, a census of the NSW public sector workforce.
 As an analyst, one of the responsibilities is to provide analysis of this data in different areas such as employment arrangements, age profile and diversity profile of the workforce to support policy development.
